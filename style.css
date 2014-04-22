@@ -1,0 +1,32 @@
+html {
+height: 100% 
+}
+      
+body {
+height: 100%; 
+margin: 0; 
+padding: 0;
+text-align:center;
+vertical-align:middle;
+}
+
+table{
+width:100%;
+border:0px solid #000;
+table-layout:fixed;
+}
+
+td{
+padding:10px;
+margin:10px;
+border:1px solid #000;
+}
+
+.button{
+cursor:pointer;
+}
+      
+#map_canvas { 
+height: 50%;
+width:100%;
+}
